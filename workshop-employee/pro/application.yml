@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5512/ompalompapro
     username: fintech
-    password: pro-secretfintech
+    password: '{cipher}5c3b19e1d33acbafb47d21ccc289837fb86dd392ed554c49f024eea941eca80702f22de4983de88275428003ca764d06'
 
 employee:
   description:
